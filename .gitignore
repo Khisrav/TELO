@@ -1,0 +1,11 @@
+credentials.json
+config.py
+.env
+*.db
+data/
+bookings.xlsx
+__pycache__/
+*.pyc
+.Python
+.venv/
+venv/
